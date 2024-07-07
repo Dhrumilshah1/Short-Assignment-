@@ -1,0 +1,115 @@
+{
+  "name": "Dhrumil Shah",
+  "contact": {
+    "email": "ds8524@srmist.edu.in",
+    "phone": "+91-9522811333"
+  },
+  "summary": "My career objective is to leverage my expertise in artificial intelligence and machine learning to contribute to cutting-edge projects that drive innovation and solve complex problems. I aim to learn skills to develop advanced AI models that enhance decision-making processes and automate tasks in various domains. I'm passionate about continuously learning and staying updated with the latest advancements in AI/ML technologies, and I'm eager to collaborate with like-minded professionals to push the boundaries of what's possible in this exciting field. Ultimately, I envision myself playing a key role in driving positive impact for both the organization and society as a whole through the application of AI/ML solutions.",
+  "experience": [
+    {
+      "company": "Colour with Apollo",
+      "title": "Machine Learning Developer",
+      "dates": "24 Jan, 2024 - 24 Mar, 2024",
+      "description": "An ML project using dual transformers in neural networks to add color to grayscale images.",
+      "skills": ["Computer Vision", "Neural Networks", "Transformers", "Machine Learning"],
+      "project_link": "https://github.com/Dhrumilshah1/colour-with-apollo"
+    },
+    {
+      "company": "Airport Network Management",
+      "title": "Logistics and System Optimization",
+      "dates": "23 Sep, 2023 - 23 Oct, 2023",
+      "description": "Optimized air traffic flow and passenger experience through strategic coordination and resource allocation.",
+      "skills": ["Natural Language Processing", "Matplotlib"],
+      "project_link": "https://github.com/Dhrumilshah1/image-to-text/tree/main"
+    },
+    {
+      "company": "Furniture AR",
+      "title": "Mobile Application Developer",
+      "dates": "Not provided",
+      "description": "Developed an APK using Unity to augment digital versions of products for online shopping.",
+      "skills": ["Unity", "Mobile Application Development"],
+      "project_link": "https://github.com/Dhrumilshah1/AR-Project1"
+    }
+  ],
+  "skills": ["AI/ML", "Computer Vision", "Pyspark", "REST", "Python", "C++", "R", "C"],
+  "education": [
+    {
+      "institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "degree": "B.Tech. - Computer Science & Engineering",
+      "graduation_date": "2025",
+      "cgpa": "8.59 / 10"
+    },
+    {
+      "institution": "The Shishukunj International School, Indore",
+      "degree": "12th | CBSE",
+      "graduation_date": "2021",
+      "percentage": "90.80 / 100"
+    },
+    {
+      "institution": "The Shishukunj International School, Indore",
+      "degree": "10th | CBSE",
+      "graduation_date": "2019",
+      "percentage": "82.20 / 100"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Microsoft Certified Azure AI Fundamentals",
+      "description": "Demonstrate fundamental AI concepts related to the development of software and services of Microsoft Azure to create AI solutions.",
+      "url": "https://learn.microsoft.com/api/credentials/share/en-us/Dhrumilshah-6470/7AE0C39995302B71?sharingId=6610E7A8574CBA6F"
+    },
+    {
+      "title": "Introduction to Machine Learning",
+      "description": "Not provided"
+    },
+    {
+      "title": "Data Science for Engineers",
+      "description": "Not provided"
+    },
+    {
+      "title": "Python for Data Science",
+      "description": "Not provided"
+    },
+    {
+      "title": "Programming, Data Structures and algorithms using Python",
+      "description": "Not provided"
+    }
+  ],
+  "workshops": [
+    {
+      "title": "STOCK MARKET WORKSHOP",
+      "date": "28 Aug, 2023",
+      "institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "skills": ["Stock Market"],
+      "description": "Learned the fundamentals of stock market and different nuances valuable for developing stock market models."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Colour with Apollo",
+      "skills": ["Computer Vision", "Neural Networks", "Transformers", "Machine Learning"],
+      "link": "https://github.com/Dhrumilshah1/colour-with-apollo",
+      "description": "An ML project using dual transformers in neural networks to add color to grayscale images."
+    },
+    {
+      "title": "Image to text",
+      "skills": ["Natural Language Processing", "Matplotlib"],
+      "link": "https://github.com/Dhrumilshah1/image-to-text/tree/main",
+      "description": "A project where an image is uploaded and with a pipeline created and the use of matplotlib we get the words of the particular text."
+    },
+    {
+      "title": "Furniture AR",
+      "skills": ["Unity", "Mobile Application Development"],
+      "link": "https://github.com/Dhrumilshah1/AR-Project1",
+      "description": "A project where we used Unity to make an apk file that helps a customer by augmenting the digital version of the product they want to buy online such as a sofa."
+    }
+  ],
+  "achievements": ["Sony Yuru Music Hackathon", "Hacktrix hackathon"],
+  "co_curricular_activities": ["Leet code"],
+  "extra_curricular_activities": ["Photography", "Music"],
+  "personal_interests": ["Reading", "Chess", "Travelling"],
+  "web_links": {
+    "Github": "https://github.com/Dhrumilshah1",
+    "Leetcode": "https://leetcode.com/u/dhrumil_2003/"
+  }
+}
